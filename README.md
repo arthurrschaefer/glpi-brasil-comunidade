@@ -1,7 +1,6 @@
 ![alt text](https://www.teclib-edition.com/wp-content/uploads/2015/12/LogoPageProd-Glpi.png)
 
-❕ Neste repositório deixo centralizadas informações que tenho sobre o projeto, links para as comunidades e como começar ou se manterem em dia com o que está acontecendo nesse mundinho doido e incrível que é do GLPI.
-! 
+❕ Neste repositório deixo centralizadas informações que tenho sobre o projeto, links para as comunidades brasileiras e como começar ou se manterem em dia com o que está acontecendo nesse mundinho doido e incrível que é o do GLPI.❕ 
 
 ## Comunidades
 
@@ -16,4 +15,7 @@
 - [![Total GLPI Downloads](https://img.shields.io/github/downloads/glpi-project/glpi/total?style=flat-square)](https://github.com/glpi-project/glpi/releases) **Total de Downloads do projeto GLPI**
 - [![Latest Release Downloads](https://img.shields.io/github/downloads/glpi-project/glpi/latest/total?style=flat-square)](https://github.com/glpi-project/glpi/releases/latest) **Total de Downloads da versão atual do GLPI**
 - [**Telemetria pública do GLPI**](https://glpi-project.org/telemetry/)
-
+- [**Documentação Oficial do Projeto**](https://faq.teclib.com/)
+- [**Documentação avançada de instalação e administração do GLPI**](https://glpi-install.readthedocs.io/en/latest/)
+- [**Documentação avançada de GLPI Agent**](https://glpi-agent.readthedocs.io/en/latest/)
+- [**Documentação avançada de GLPI para usuários**](https://glpi-user-documentation.readthedocs.io/fr/latest/)
